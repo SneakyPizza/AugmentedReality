@@ -16,5 +16,11 @@ namespace Vuforia
     /// </summary>
     public class WebCamBehaviour : WebCamAbstractBehaviour
     {
+
+		private void WebCamTexture()
+		{
+
+		}
+	 
     }
 }
